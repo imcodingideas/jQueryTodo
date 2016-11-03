@@ -1,7 +1,6 @@
 /**
  * Created by joseph on 11/3/16.
  */
-console.log('connected');
 
 //check off specific todos by clicking
 $('ul').on('click', 'li', function () {
